@@ -16,13 +16,12 @@ This guide explains how to install your custom config for Counter-Strike using y
 
   - Place your configuration files (such as `autoexec.cfg`, `config.cfg`, or any custom `.vcfg` files) into the `cfg` folder mentioned above.
   2. **Understanding and Using `autoexec.cfg`**
-
-    - To ensure it loads, add the following launch option in Steam:
+  - To ensure it loads, add the following launch option in Steam:
       ```
       +exec autoexec.cfg
       ```
-    - To edit `autoexec.cfg`, open it with a text editor (like Notepad), make your changes, and save the file in the `cfg` folder.
-    - You can also open the console and run `exec autoexec.cfg`
+  - To edit `autoexec.cfg`, open it with a text editor (like Notepad), make your changes, and save the file in the `cfg` folder.
+  - You can also open the console and run `exec autoexec.cfg`
   
 ---
 
