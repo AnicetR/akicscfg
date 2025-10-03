@@ -1,0 +1,26 @@
+"config"
+{
+	"bindings"
+	{
+		"MOUSE3"		"<unbound>"
+		"z"		"radio1"
+		"x"		"radio2"
+		"c"		"+radialradio"
+		"v"		"+radialradio3"
+		"MWHEELUP"		"+jump"
+		"MWHEELDOWN"		"+jump"
+		"SPACE"		"+jump"
+		"MOUSE4"		"+voicerecord"
+		"MOUSE5"		"player_ping"
+		"."		"<unbound>"
+		","		"say niggu niggu beam"
+		"h"		"<unbound>"
+		"n"		"slot12"
+		"`"		"toggleconsole"
+		"MOUSE2"		"+attack2"
+		"MOUSE1"		"+attack"
+		"TAB"		"+showscores"
+		"CTRL"		"+duck"
+		"SHIFT"		"+sprint"
+	}
+}
